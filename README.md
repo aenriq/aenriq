@@ -1,4 +1,9 @@
-### Hi there 👋
+##Welcome!
+
+I am a student at Arizona State University currently studying Computer Science.
+
+List of completed projects:
+-Pi Visualizer
 
 <!--
 **aenriq/aenriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
