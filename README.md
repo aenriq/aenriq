@@ -2,4 +2,4 @@
 
 I am a student at Arizona State University currently studying Computer Science.
 
-Check out my personal website at aenriq.com
+I am currently working on remaking my personal website. You can checkout my progress at aenriq.com
